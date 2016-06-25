@@ -4,3 +4,6 @@ c:\users\mike\documents\visual studio 2015\Projects\ChatApplication\ChatApplicat
 c:\users\mike\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\obj\Debug\ChatApplication.csprojResolveAssemblyReference.cache
 c:\users\mike\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\obj\Debug\ChatApplication.exe
 c:\users\mike\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\obj\Debug\ChatApplication.pdb
+C:\Users\Mike\Documents\ChatApplication\ChatApplication\bin\Debug\ChatApplication.exe.config
+C:\Users\Mike\Documents\ChatApplication\ChatApplication\obj\Debug\ChatApplication.exe
+C:\Users\Mike\Documents\ChatApplication\ChatApplication\obj\Debug\ChatApplication.pdb

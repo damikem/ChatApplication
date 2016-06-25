@@ -1,0 +1,6 @@
+C:\Users\Mike\Documents\ChatApplication\P2PChat\bin\Debug\P2PChat.exe.config
+C:\Users\Mike\Documents\ChatApplication\P2PChat\bin\Debug\P2PChat.exe
+C:\Users\Mike\Documents\ChatApplication\P2PChat\bin\Debug\P2PChat.pdb
+C:\Users\Mike\Documents\ChatApplication\P2PChat\obj\Debug\P2PChat.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\ChatApplication\P2PChat\obj\Debug\P2PChat.exe
+C:\Users\Mike\Documents\ChatApplication\P2PChat\obj\Debug\P2PChat.pdb
